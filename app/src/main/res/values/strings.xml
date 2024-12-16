@@ -1,4 +1,67 @@
 <resources>
     <string name="app_name">ThirtyDaysApp</string>
 
+        <string name="task_breathing">Take 5 minutes to breathe deeply and focus on the present moment.</string>
+        <string name="task_morning_walk">Go for a 10-minute morning walk to energize your day.</string>
+        <string name="task_gratitude_journal">Write down 3 things you are grateful for today.</string>
+        <string name="task_healthy_snack">Have a healthy snack like fruits or nuts today.</string>
+        <string name="task_meditation">Meditate for 10 minutes to calm your mind.</string>
+        <string name="task_stretching">Do a 5-minute full-body stretch.</string>
+        <string name="task_social_connection">Call or text a friend or family member.</string>
+        <string name="task_drink_water">Drink at least 8 glasses of water today.</string>
+        <string name="task_nature_walk">Take a walk in nature and enjoy the scenery.</string>
+        <string name="task_read_book">Read a book or article that inspires you.</string>
+        <string name="task_positive_affirmations">Say positive affirmations to boost your confidence.</string>
+        <string name="task_exercise">Exercise for 20 minutes to keep your body active.</string>
+        <string name="task_music_relaxation">Listen to your favorite relaxing music.</string>
+        <string name="task_plan_goals">Write down your goals for the week.</string>
+        <string name="task_self_reflection">Spend 10 minutes reflecting on your accomplishments.</string>
+        <string name="task_healthy_meal">Prepare a balanced and nutritious meal.</string>
+        <string name="task_call_friend">Call a friend and have a meaningful conversation.</string>
+        <string name="task_random_act_kindness">Perform a random act of kindness today.</string>
+        <string name="task_mindful_eating">Eat mindfully, paying attention to every bite.</string>
+        <string name="task_journal_reflection">Journal about your days highlights and lessons.</string>
+        <string name="task_spend_time_outdoors">Spend at least 15 minutes outside today.</string>
+        <string name="task_unplug_tech">Take a tech-free hour to relax and recharge.</string>
+        <string name="task_try_new_hobby">Try a new hobby or revisit an old passion.</string>
+        <string name="task_declutter_space">Declutter a small space in your home.</string>
+        <string name="task_laugh_more">Watch something funny and enjoy a good laugh.</string>
+        <string name="task_sleep_well">Ensure you get 7-8 hours of restful sleep.</string>
+        <string name="task_listen_podcast">Listen to a motivational or educational podcast.</string>
+        <string name="task_relax_bath">Take a relaxing bath or shower.</string>
+        <string name="task_practice_gratitude">Practice gratitude by noting positive moments.</string>
+        <string name="task_review_progress">Review your progress and celebrate your achievements.</string>
+
+        <string name="desc_breathing">Spend 5 minutes practicing deep breathing. Focus on slow inhales and exhales to relax your mind and body.</string>
+        <string name="desc_morning_walk">Take a refreshing 10-minute walk in the morning. Enjoy the fresh air and gentle movement to start your day right.</string>
+        <string name="desc_journal">Write down three things you are grateful for today. This helps cultivate a positive and thankful mindset.</string>
+        <string name="desc_snack">Choose a healthy snack like fruit, nuts, or yogurt. Fuel your body with nutritious foods to boost energy.</string>
+        <string name="desc_meditation">Take 10 minutes to meditate in a quiet space. Focus on your breath and let go of any stress or tension.</string>
+        <string name="desc_stretching">Do a full-body stretch for 5 minutes. Stretch your arms, back, and legs to increase flexibility and reduce stiffness.</string>
+        <string name="desc_social_connection">Call or message a friend or family member. Meaningful connections improve emotional well-being.</string>
+        <string name="desc_drink_water">Drink at least 8 glasses of water throughout the day. Staying hydrated supports overall health.</string>
+        <string name="desc_nature_walk">Go for a walk in nature. Enjoy the calming effect of fresh air, trees, and natural surroundings.</string>
+        <string name="desc_read_book">Read a book or article that inspires or educates you. Enjoy a quiet moment of learning and discovery.</string>
+        <string name="desc_positive_affirmations">Repeat positive affirmations to yourself. Build self-confidence and encourage a hopeful outlook.</string>
+        <string name="desc_exercise">Exercise for at least 20 minutes. Choose an activity you enjoy, such as jogging, cycling, or yoga.</string>
+        <string name="desc_music_relaxation">Listen to calming or uplifting music. Let the melodies help you relax and reset.</string>
+        <string name="desc_plan_goals">Plan your goals for the week. Writing down tasks and intentions helps create a sense of purpose.</string>
+        <string name="desc_self_reflection">Spend 10 minutes reflecting on your achievements and lessons learned. Appreciate your growth and progress.</string>
+        <string name="desc_healthy_meal">Prepare a balanced, nutritious meal. Include fruits, vegetables, lean protein, and whole grains.</string>
+        <string name="desc_call_friend">Reach out to a friend or loved one. Share updates and enjoy a meaningful conversation.</string>
+        <string name="desc_random_act_kindness">Do something kind for someone today. A small act of kindness can brighten someone’s day.</string>
+        <string name="desc_mindful_eating">Eat your meal slowly and mindfully. Savor each bite and notice the flavors and textures.</string>
+        <string name="desc_journal_reflection">Reflect on your day by journaling. Write down what went well and what you learned.</string>
+        <string name="desc_spend_time_outdoors">Spend at least 15 minutes outside. Enjoy the sunlight, fresh air, and the beauty of nature.</string>
+        <string name="desc_unplug_tech">Take a tech-free hour to relax and recharge. Disconnect from screens and enjoy offline activities.</string>
+        <string name="desc_try_new_hobby">Try a new hobby or revisit an old interest. Explore your creative side and have fun.</string>
+        <string name="desc_declutter_space">Declutter a small area of your home. A tidy space can help clear your mind.</string>
+        <string name="desc_laugh_more">Watch something funny or share a joke. Laughter is great for relieving stress and boosting happiness.</string>
+        <string name="desc_sleep_well">Aim for 7-8 hours of restful sleep tonight. Establish a relaxing bedtime routine for better sleep.</string>
+        <string name="desc_listen_podcast">Listen to a motivational or educational podcast. Learn something new or get inspired by a great story.</string>
+        <string name="desc_relax_bath">Take a relaxing bath or shower. Enjoy warm water and soothing scents to unwind.</string>
+        <string name="desc_practice_gratitude">Practice gratitude by noting positive moments from your day. This helps develop a more optimistic outlook.</string>
+        <string name="desc_review_progress">Review your progress over the past month. Celebrate achievements and set intentions for the future.</string>
+
+
 </resources>
